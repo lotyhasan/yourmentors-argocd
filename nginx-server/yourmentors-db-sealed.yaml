@@ -4,7 +4,7 @@ kind: SealedSecret
 metadata:
   creationTimestamp: null
   name: yourmentors
-  namespace: tuhin
+  namespace: default
 spec:
   encryptedData:
     DB_PASSWORD: AgBTb8yM8xO/y1Pil3zDuQBAFUV3jvQCZl7WYF+/Xg5g+LxTJhMvU/uTfMT8C1Qi60CrdJZRduTowBKlKi18K7hBmuMTxm1jxjqhDgyDV2IMF2ciluvLv+tLUKFgW3+S1oXR+u/bfsDyeyBff1TFwQ1DOHw+2JXc2MslRNhe8Ru1tbIajiiYKDfaLzHAe0NF7ZFrbhDYpjTC3WXalXlf7VlMjOzzEOivMHmpcATRKmiIobtLZL+UjUnn55NYKOLVcfBp22OEr2ETS5yBrw01eSGT6ukOPtk26+ODxiCrbAAYbwJHWSnuLj0PrL6gQE8JIzUSs7uhj0iBnHNEbItHSHT4UAsYmDj/loZdhyCiQ4otjPsWj6CSmEzl4Ekwat2tolqVlQPGuYDctdYVSlxdztgs12lbgu18S3t/gYDgXo8lsVlgOYiVaGh7jAda7shEK2lKN/yc3s2mQYXjVDVD+4TW78bEj8aBarOBf91eSVxWWK563+eQeAg7J+qJki77Opv0PRprQm2pmdwRl6esnrIoNTnlLk1WXxtmJiYos6/rr8zfegorCV78Oou/IqpW1ACefnLhZpf1aK6iQ9vlty+clC4iiNrroCR8LIpWz77bkbdL+PpEJxWKsbvAFcLch9rTr1sLnRJUicjyLlcXF4e5IrMwg3l4nJmqDzXxbv38Xz7m0BmOu6Ko8F0eEFK8i+Nny/Uie8Ikvv7TklxvGQ==
@@ -12,4 +12,4 @@ spec:
     metadata:
       creationTimestamp: null
       name: yourmentors
-      namespace: tuhin
+      namespace: default
